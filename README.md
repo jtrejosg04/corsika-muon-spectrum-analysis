@@ -331,7 +331,7 @@ The energy-spectrum and angular-distribution validations establish a baseline fo
 
 ## Author
 
-**Jacobo Trejos**
+**Jacobo Trejos Giraldo (202124813)**
 
 Undergraduate Physics  
 Universidad de los Andes  
