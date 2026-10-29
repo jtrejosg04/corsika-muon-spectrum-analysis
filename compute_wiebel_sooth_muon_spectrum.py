@@ -1,13 +1,11 @@
 #!/usr/bin/env python3
-"""L3+C vs CORSIKA/UrQMD ATMOD7: Wiebel-Sooth (WS) sin modelo híbrido.
+"""Compute the atmospheric muon spectrum using Wiebel-Sooth.
 
-Ejecutar con: python3 L3C_ATMOD7_WS_puro.py
-Colocar en run/prueba_C_ATMOD7/. No sobrescribe salidas anteriores.
+Run with:
+    python3 compute_wiebel_sooth_muon_spectrum.py
 
-Los núcleos Z>=3 se aproximan por superposición de nucleones usando
-las lluvias de protones, NO por simulaciones nucleares independientes.
-La parametrización se aplica solamente para E_nucleo >= 10 Z GeV,
-convención adoptada en los scripts previos; verificar dominio en fuente.
+Input files must follow the directory structure
+documented in README.md.
 """
 from pathlib import Path
 import numpy as np
