@@ -3,7 +3,7 @@
 
 Computational reconstruction and validation of atmospheric muon energy spectra and angular distributions using **CORSIKA 7.8050**, with comparisons against experimental measurements and established physical expectations.
 
-This repository contains Python analysis tools developed as part of an undergraduate Physics thesis at **Universidad de los Andes (Bogotá, Colombia)**, investigating the thermal and electromagnetic modulation of atmospheric muons.
+This repository contains Python analysis tools developed as part of an undergraduate Physics thesis at **Universidad de los Andes (Bogotá, Colombia)**, investigating the electromagnetic modulation of atmospheric muons.
 
 ## 1. Overview
 
