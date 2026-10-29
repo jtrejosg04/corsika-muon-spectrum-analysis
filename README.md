@@ -323,19 +323,11 @@ The repository contains analysis scripts and validation figures. CORSIKA executa
 
 ## 9. Research Context
 
-This repository supports an undergraduate Physics thesis at **Universidad de los Andes**, focused on the thermal and electromagnetic modulation of the atmospheric muon flux.
+This repository supports an undergraduate Physics thesis at **Universidad de los Andes**, focused on the electromagnetic modulation of the atmospheric muon flux.
 
 The broader research investigates how atmospheric conditions, particularly electric fields associated with thunderstorms, may modify the flux of muons reaching ground level.
 
 The energy-spectrum and angular-distribution validations establish a baseline for subsequent numerical investigations involving atmospheric electric fields and extended simulation campaigns.
-
-## 10. References
-
-1. Heck, D., Knapp, J., Capdevielle, J. N., Schatz, G., and Thouw, T. (1998). *CORSIKA: A Monte Carlo Code to Simulate Extensive Air Showers*. Forschungszentrum Karlsruhe, FZKA 6019.
-
-2. Achard, P., et al. (L3 Collaboration). (2004). *Measurement of the atmospheric muon spectrum from 20 to 3000 GeV*. Physics Letters B, 598, 15–32.
-
-3. Gaisser, T. K., Engel, R., and Resconi, E. (2016). *Cosmic Rays and Particle Physics*. 2nd edition. Cambridge University Press.
 
 ## Author
 
